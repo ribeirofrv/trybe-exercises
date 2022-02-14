@@ -1,0 +1,29 @@
+primeira requisição para um site.
+  curl testdomain.com
+saída:
+  <html><head><title>testdomain.com</title></head><body><h1>testdomain.com</h1><p>Coming soon.</p></body></html>
+
+utilizando uma option do comando curl, conhecida como --head -> Permite acesso ao cabeçalho de uma página
+  curl --head https://www.betrybe.com/
+saída:
+  HTTP/2 200 
+  server: openresty
+  date: Sun, 13 Feb 2022 23:37:50 GMT
+  content-type: text/html
+  content-length: 54260
+  content-security-policy: frame-ancestors 'self'
+  x-frame-options: SAMEORIGIN
+  accept-ranges: bytes
+  via: 1.1 varnish
+  age: 0
+  x-served-by: cache-iad-kcgs7200091-IAD
+  x-cache: MISS
+  x-cache-hits: 0
+  x-timer: S1644795470.164862,VS0,VE179
+  vary: x-wf-forwarded-proto, Accept-Encoding
+  x-cluster-name: us-east-1-prod-edge-eks-15
+
+fazendo uma requisição de download para uma URL específica, utilizando a option -O
+  curl -O https://uploads-ssl.webflow.com/5dbd9ce75ad64f24b67f0932/5dbdd9165ad64f5e29811c52_BRAND3.png
+retorna o logo da trybe
+  
