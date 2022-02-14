@@ -1,4 +1,4 @@
-# Trybe Exercises - Desenvolvimento Web Fullstack
+# Trybe Course - Desenvolvimento Web Fullstack
 
 Este repositório contém todas as atividades de aprendizagem desenvolvidas por _[Fran Ribeiro](https://www.linkedin.com/in/ribeirofrv/)_ enquanto estuda na [Trybe](https://www.betrybe.com/) - Turma 20b :rocket:
 
