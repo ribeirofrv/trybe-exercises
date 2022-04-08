@@ -1,0 +1,20 @@
+.PokemonCard {
+  border: 1px solid gainsboro;
+  border-radius: 5px;
+  max-width: 20rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+}
+.PokedexSection {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.Title {
+  font-size: 5.6rem;
+  text-align: center;
+}
