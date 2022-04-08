@@ -38,7 +38,6 @@
 - [x] 02: JavaScript - Trabalhando com elementos
 - [x] 03: JavaScript - Eventos
 - [x] 04: JavaScript - Web Storage
-- [x] 05: Fundamentos - JavaScript - Projetos
 - [x] 05: [Projeto - Arte com Pixels](https://ribeirofrv.github.io/project-pixel-art/)
 - [x] 06: Projeto - Lista de tarefas
 - [ ] 07: (Bônus) Projeto - Meme Generator
