@@ -45,6 +45,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [ ] Bloco 27: Programação Orientada a Objetos (POO) e SOLID
 - [ ] Bloco 28: Projeto - TFC - Trybe Futebol Clube
 - [ ] Bloco 29: Introdução ao MongoDB
+- [ ] Bloco 30: MongoDB com Node.js e POO
 - [ ] Bloco 31: MasterClass - VPS, CI/CD
 - [ ] Bloco 32: Projeto - App de Delivery
 
