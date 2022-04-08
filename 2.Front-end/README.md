@@ -3,15 +3,13 @@
 
 #### Bloco 10: Introdução à React
 
-- [ ] 01: Introdução - Front-end
-- [ ] 01: Introdução - React
-- [ ] 01: 'Hello, world!' no React!
-- [ ] 02: Componentes React
-- [ ] 03: Projeto - Sistema Solar
+- [x] 01: 'Hello, world!' no React!
+- [x] 02: Componentes React
+- [x] 03: Projeto - Sistema Solar
 
 #### Bloco 11: Componentes com Estado, Eventos e Formulários com React
 
-- [ ] 01: Componentes com estado e eventos
+- [x] 01: Componentes com estado e eventos
 - [ ] 02: Formulários no React
 - [ ] 03: Projeto - Tryunfo
 
